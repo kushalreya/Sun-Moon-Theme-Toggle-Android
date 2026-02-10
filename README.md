@@ -18,8 +18,14 @@ This component provides a smooth transition between light and dark themes and ca
 
 ## 📸 Preview
 
-![Light Mode](sun.png)
-![Dark Mode](moon.png)
+<p align="center">
+  <img src="sun.png" width="45%" alt="Light Mode" />
+  <img src="moon.png" width="45%" alt="Dark Mode" />
+</p>
+
+<p align="center">
+  <b>Light Mode</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Dark Mode</b>
+</p>
 
 ---
 
